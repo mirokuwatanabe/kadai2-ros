@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+#Copyright (c) 2022. ryuichiueda, mirokuwatanabe.
+#License BSD.
+
 import rospy
 from std_msgs.msg import Float32
 
@@ -52,3 +56,8 @@ pub = rospy.Publisher('answer', Float32, queue_size =  1)
 rate = rospy.Rate(10)
 while not rospy.is_shutdown():
     rate.sleep()
+
+#----------
+#Copyright (c) 2022 ryuichiueda, mirokuwatanabe All Right Reserved.
+#License BSD
+#----------

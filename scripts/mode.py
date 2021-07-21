@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+#Copyright (c) 2022. ryuichiueda, mirokuwatanabe.
+#License BSD.
+
 import rospy
 from std_msgs.msg import Float32
 
