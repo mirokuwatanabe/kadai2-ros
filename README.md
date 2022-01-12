@@ -2,7 +2,7 @@
 
 ## 概要
 
-2021年度ロボットシステム学講義内にて __上田隆一先生__ のプログラムを改造し、Raspberry Pi 3 Model Bを使用し課題2用に溶液溶媒溶質に関する計算機を製作したものです。
+2021年度ロボットシステム学講義内にて __上田隆一先生__ のプログラムを改造し、Raspberry Pi 3 Model Bを使用し課題2用に溶液,溶媒,溶質に関する計算機を製作したものです。
 
 ## 動作環境
 ```
@@ -40,4 +40,4 @@ youtubeにアップ済み
 
 ## ライセンス
 
-[]()
+[BSD 3-Clause "New" or "Revised" License](https://github.com/mirokuwatanabe/kadai2-ros/blob/b8bc0559bc651b46e4cf94c16e88b9653dd05eee/COPYING)
